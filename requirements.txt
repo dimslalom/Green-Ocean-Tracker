@@ -1,0 +1,6 @@
+customtkinter>=5.2
+gspread>=6.0
+google-auth>=2.20
+google-api-python-client>=2.100
+rapidfuzz>=3.0
+yt-dlp>=2024.1.1

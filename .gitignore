@@ -1,0 +1,15 @@
+# Secrets - never commit the service account key
+credentials.json
+*.json.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
